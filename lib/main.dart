@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:loja_app/pages/cart_page.dart';
 import 'package:loja_app/pages/orders_page.dart';
 import 'package:loja_app/pages/product_detail_page.dart';
-import 'package:loja_app/pages/lib/pages/product_form_page.dart';
+import 'package:loja_app/pages/product_form_page.dart';
 import 'package:loja_app/pages/products_overview_page.dart';
 import 'package:loja_app/pages/products_page.dart';
 import 'package:loja_app/utils/app_routes.dart';
